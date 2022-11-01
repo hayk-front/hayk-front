@@ -6,5 +6,7 @@
 ✔ Love making [short movies & commercials](https://www.youtube.com/c/CarspotArmenia). <br>
 ✔ I’m willing to consider relocating if the job’s a good fit
 
+📩 Feel free to [contact me](https://www.linkedin.com/in/hayk-front) anytime
+
 
 
