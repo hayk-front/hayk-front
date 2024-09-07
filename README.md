@@ -1,5 +1,7 @@
 👋 Hi there, I'm HayK. <br>
 <br>
+⚠️ Active contributions are made on GitLab for M2's projects, that's why my GitHub activity appears minimal.
+<br>
 🚀 Currently working on a [crypto investment platform](https://www.m2.com) using React JS & Next JS <br>
 
 ✔ I'm working as a software engineer at [M2](https://www.linkedin.com/company/m2-investment/) <br>
@@ -7,8 +9,6 @@
 <br>
 
 📩 Feel free to [contact me](https://www.linkedin.com/in/hayk-front) anytime <br>
-
-⚠️ Active contributions are made on GitLab for M2's projects, that's why my GitHub activity appears minimal.
 
 
 
