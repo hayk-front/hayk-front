@@ -1,6 +1,6 @@
 👋 Hi there, I'm **Hayk**! <br><br>
 
-🚀 I'm currently building scalable solutions for a <a href="https://www.sokin.com" target="_blank" rel="noopener noreferrer">fintech platform</a> using the modern **Angular** framework. <br>
+🚀 I'm currently building scalable solutions for a <a href="https://sokin.com/about" target="_blank" rel="noopener noreferrer">fintech platform</a> using the modern **Angular** framework. <br>
 💡 Although my day-to-day focus is Angular, I also bring deep expertise in **React.js**, with years of experience designing and maintaining complex front-end architectures. <br><br>
 
 ✔ Senior Engineer at <a href="https://uk.linkedin.com/company/sokin" target="_blank" rel="noopener noreferrer">Sokin</a> <br>
